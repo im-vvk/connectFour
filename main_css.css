@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    margin: 10px;
+}
+
+.board button {
+  border-radius: 50%;
+    background-color: gray;
+  border: 3px solid black;
+  margin: 1px;
+  width: 100px;
+  height: 100px;
+}
